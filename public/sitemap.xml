@@ -3,54 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.michaellblog.com/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.michaellblog.com/</loc>
+    <loc>/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.michaellblog.com/tag/rstats/</loc>
+    <loc>/tag/rstats/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.michaellblog.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.michaellblog.com/blog/this-is-first-post/</loc>
+    <loc>/blog/this-is-first-post/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.michaellblog.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.michaellblog.com/resume/</loc>
+    <loc>/resume/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.michaellblog.com/authors/</loc>
+    <loc>/authors/</loc>
   </url>
   
   <url>
-    <loc>https://www.michaellblog.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://www.michaellblog.com/author/michael-lambe/</loc>
+    <loc>/author/michael-lambe/</loc>
   </url>
   
   <url>
-    <loc>https://www.michaellblog.com/publication_types/</loc>
+    <loc>/publication_types/</loc>
   </url>
   
 </urlset>

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michaël Lambé</title>
-    <link>https://www.michaellblog.com/</link>
-      <atom:link href="https://www.michaellblog.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Michaël Lambé</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Michaël Lambé 2020</copyright><lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.michaellblog.com/img/sharon-mccutcheon-62vi3TG5EDg-unsplash_small.jpg</url>
+      <url>/img/sharon-mccutcheon-62vi3TG5EDg-unsplash_small.jpg</url>
       <title>Michaël Lambé</title>
-      <link>https://www.michaellblog.com/</link>
+      <link>/</link>
     </image>
     
     <item>
       <title>This Is my first post</title>
-      <link>https://www.michaellblog.com/blog/this-is-first-post/</link>
+      <link>/blog/this-is-first-post/</link>
       <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.michaellblog.com/blog/this-is-first-post/</guid>
+      <guid>/blog/this-is-first-post/</guid>
       <description>&lt;p&gt;This is my first post&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://www.michaellblog.com/about/</link>
+      <link>/about/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.michaellblog.com/about/</guid>
+      <guid>/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>https://www.michaellblog.com/resume/</link>
+      <link>/resume/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.michaellblog.com/resume/</guid>
+      <guid>/resume/</guid>
       <description></description>
     </item>
     
